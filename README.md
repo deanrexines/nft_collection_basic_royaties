@@ -1,0 +1,1 @@
+# nft_collection_basic_royaties
